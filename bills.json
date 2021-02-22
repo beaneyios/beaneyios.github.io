@@ -1,0 +1,32 @@
+[
+	{
+		"reference": "001",
+		"due_value": 25.99,
+		"due_date": "01/02/2021",
+		"status": "Overdue"
+	},
+	{
+		"reference": "001",
+		"due_value": 19.50,
+		"due_date": "10/03/2021",
+		"status": "Paid"
+	},
+	{
+		"reference": "001",
+		"due_value": 4.20,
+		"due_date": "15/03/2021",
+		"status": "Open"
+	},
+	{
+		"reference": "001",
+		"due_value": 8.99,
+		"due_date": "17/03/2021",
+		"status": "Open"
+	},
+	{
+		"reference": "001",
+		"due_value": 10.0,
+		"due_date": "20/03/2021",
+		"status": "Open"
+	}
+]
