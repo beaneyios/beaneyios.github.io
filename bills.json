@@ -1,7 +1,7 @@
 [
 	{
 		"reference": "001",
-		"due_value": 25.99,
+		"due_value": 24.99,
 		"due_date": "01/02/2021",
 		"status": "Overdue"
 	},
