@@ -1,37 +1,35 @@
-{
-	"characters": [
-		{
-			"name": "Agent Smith"
-		},
-		{
-			"name": "Apoc"
-		},
-		{
-			"name": "Cypher"
-		},
-		{
-			"name": "Dozer"
-		},
-		{
-			"name": "Morpheus"
-		},
-		{
-			"name": "Mouse"
-		},
-		{
-			"name": "Neo"
-		},
-		{
-			"name": "Switch"
-		},
-		{
-			"name": "Tank"
-		},
-		{
-			"name": "The Oracle"
-		},
-		{
-			"name": "Trinity"
-		}
-	]
-}
+[
+	{
+		"name": "Agent Smith"
+	},
+	{
+		"name": "Apoc"
+	},
+	{
+		"name": "Cypher"
+	},
+	{
+		"name": "Dozer"
+	},
+	{
+		"name": "Morpheus"
+	},
+	{
+		"name": "Mouse"
+	},
+	{
+		"name": "Neo"
+	},
+	{
+		"name": "Switch"
+	},
+	{
+		"name": "Tank"
+	},
+	{
+		"name": "The Oracle"
+	},
+	{
+		"name": "Trinity"
+	}
+]
